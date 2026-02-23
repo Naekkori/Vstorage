@@ -4,6 +4,8 @@ Encode any file into a 4K video. Decode it back, even after lossy compression (Y
 
 Uses AES-256-GCM encryption, Reed-Solomon error correction, and quantized pixel blocks.
 
+[Korean README](README_KR.md) by LacyCat
+
 ## Requirements
 
 - Rust 1.56+
